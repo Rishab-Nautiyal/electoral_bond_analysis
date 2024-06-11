@@ -15,4 +15,10 @@ import matplotlib.pyplot as plt
 %matplotlib inline
 import seaborn as sn
 from tabulate import tabulate
+# Installing Requirements
+pip install pandas numpy matplotlib seaborn tabulate
+# Open jpyter file
+jupyter notebook electrol_bond_data_analysis.ipynb
+
+
 
