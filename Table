@@ -1,0 +1,31 @@
++----+------------------------------------------------+--------------+
+|    |          Name of the Political Party           | Denomination |
++----+------------------------------------------------+--------------+
+| 0  |                AAM AADMI PARTY                 |  654500000   |
+| 1  |            ADYAKSHA SAMAJVADI PARTY            |  140500000   |
+| 2  |    ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM    |   60500000   |
+| 3  |          ALL INDIA TRINAMOOL CONGRESS          | 16095314000  |
+| 4  |             BHARAT RASHTRA SAMITHI             | 12147099000  |
+| 5  |              BHARTIYA JANTA PARTY              | 60605111000  |
+| 6  |        BIHAR PRADESH JANTA DAL(UNITED)         |  140000000   |
+| 7  |                BIJU JANATA DAL                 |  7755000000  |
+| 8  |            DMK PARTY IN PARLIAMENT             |  6390000000  |
+| 9  |               GOA FORWARD PARTY                |   3500000    |
+| 10 |     JAMMU AND KASHMIR NATIONAL CONFERENCE      |   5000000    |
+| 11 |                 JANASENA PARTY                 |  210000000   |
+| 12 |             JANATA DAL ( SECULAR )             |  435000000   |
+| 13 |             JHARKHAND MUKTI MORCHA             |  135000000   |
+| 14 |         MAHARASHTRAWADI GOMNTAK PARTY          |   5500000    |
+| 15 | NATIONALIST CONGRESS PARTY MAHARASHTRA PRADESH |   5000000    |
+| 16 |    NATIONALIST CONGRESS PARTY PARLIAMENT OF    |  305000000   |
+| 17 |    PRESIDENT, ALL INDIA CONGRESS COMMITTEE     | 14218655000  |
+| 18 |              RASHTRIYA JANTA DAL               |   10000000   |
+| 19 |               RASTRIYA JANTA DAL               |  725000000   |
+| 20 |              SHIROMANI AKALI DAL               |   72600000   |
+| 21 |                    SHIVSENA                    |   10000000   |
+| 22 |           SHIVSENA (POLITICAL PARTY)           |  1583814000  |
+| 23 |            SIKKIM DEMOCRATIC FRONT             |   55000000   |
+| 24 |            SIKKIM KRANTIKARI MORCHA            |  365000000   |
+| 25 |               TELUGU DESAM PARTY               |  2188800000  |
+| 26 |     YSR CONGRESS PARTY (YUVAJANA SRAMIKA R     |  3370000000  |
++----+------------------------------------------------+--------------+
